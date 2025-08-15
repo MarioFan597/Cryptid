@@ -4389,8 +4389,9 @@ return {
 			cry_rigged = {
 				name = "Rigged",
 				text = {
-					"All {C:cry_code}listed{} probabilities",
+					"All {C:attention}listed{} {C:green,E:1}probabilities{}",
 					"are {C:cry_code}guaranteed",
+					"{C:inactive}(ex: {C:green}1 in 3{} {C:inactive}->{} {C:green}3 in 3{} {C:inactive})",
 				},
 			},
 			cry_hooked = {
